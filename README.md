@@ -17,3 +17,7 @@ Hi! I'm Edgar Real, a Computer Science student interested in software developmen
 ## Projects
 
 I'm currently working on programming assignments and personal projects as I continue developing my Computer Science skills.
+## Contact
+
+- Email: 19edgarreal@gmail.com
+- GitHub: https://github.com/19edgarreal

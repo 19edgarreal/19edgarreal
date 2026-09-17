@@ -21,3 +21,8 @@ I'm currently working on programming assignments and personal projects as I cont
 
 - Email: 19edgarreal@gmail.com
 - GitHub: https://github.com/19edgarreal
+## About Me
+
+I'm a student-athlete studying Computer Science. I enjoy learning new technologies, solving problems with code, and developing my skills both academically and personally.
+
+Thanks for visiting my profile!

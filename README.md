@@ -1,3 +1,4 @@
+## Welcome to my profile!
 # Edgar Real
 
 Hi! I'm Edgar Real, a Computer Science student interested in software development and technology. I'm currently building my programming skills and learning how to create useful software projects.
@@ -26,3 +27,4 @@ I'm currently working on programming assignments and personal projects as I cont
 I'm a student-athlete studying Computer Science. I enjoy learning new technologies, solving problems with code, and developing my skills both academically and personally.
 
 Thanks for visiting my profile!
+I'm continuing to improve my coding skills.
